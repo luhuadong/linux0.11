@@ -1,7 +1,8 @@
 # linux0.11
 MOOC 操作系统课程笔记和代码
 
-<https://www.icourse163.org/course/HIT-1002531008>
+- <https://www.icourse163.org/course/HIT-1002531008>
+- <https://www.shiyanlou.com/courses/115>
 
 
 
